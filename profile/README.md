@@ -2,7 +2,6 @@
 
 Source code available in [Colab](https://drive.google.com/drive/folders/1f9gcUbZDbexgh6EZ9OLpadQSodhLWYui?usp=sharing).
 
-## Chapters:
 
 1. Concept about Recursion
 2. Recursive Programs
@@ -17,3 +16,6 @@ Source code available in [Colab](https://drive.google.com/drive/folders/1f9gcUbZ
 2. Google Colab
 3. Test Python Programs
 4. Tail Recursion
+## Additional Examples
+- [Directory Waling](https://colab.research.google.com/drive/1AVyO7ouFE8ky3KMWHeTNfUAlL3CzMwzZ?usp=drive_link)
+- [Descent Parsing](https://colab.research.google.com/drive/1BmXIJaSCf0rqKjjA1bOcBIXB38Cj9D0g?usp=drive_link)
