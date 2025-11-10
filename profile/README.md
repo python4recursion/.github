@@ -10,7 +10,7 @@ Source code available in [Colab](https://drive.google.com/drive/folders/1f9gcUbZ
 5. Go Game
 6. Binary Trees
 7. Huffman Compression
-8. Real-World Recursion
+
 ## Appendix
 1. Stack Memory
 2. Google Colab
